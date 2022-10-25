@@ -1,0 +1,21 @@
+body{
+        background-color:rgb(222, 206, 222);
+}
+.smallbox{
+        background-color:white;
+        text-align: center;
+        padding: 35px 5px;
+        margin: 30px 1px;
+}
+i{
+        color:rgb(20, 156, 209);
+}
+.cont{
+        margin: 20px 1px;
+}
+a{
+        border-bottom: 2px solid rgb(40, 93, 253);
+}
+.box{
+        padding: 70px 5px;
+}
